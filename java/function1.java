@@ -1,6 +1,7 @@
+package java;
 import java.util.*;
 
-public class function {
+public class function1 {
     public static int fact(int x) {
         int rv = 1;
         for (int i = 1; i <= x; i++) {
