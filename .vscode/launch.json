@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Deccimal_to_any_base",
+      "request": "launch",
+      "mainClass": "FunctionsAndArrays.IntroToNumberSystem.Deccimal_to_any_base",
+      "projectName": "pepcoding_e87cbcbc"
+    },
+    {
+      "type": "java",
       "name": "Launch ElementInArray",
       "request": "launch",
       "mainClass": "ElementInArray",
