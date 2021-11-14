@@ -8,3 +8,7 @@ public class Substrings {
 class Empty {
 
 }
+
+class rectangel {
+    int length, width;
+}
