@@ -1,8 +1,10 @@
 public class practice1 {
     public static void main(String[] args) {
         // new operator in java is used to create an object
-        Access access1; // declare the object
-        access1 = new Access(); // instantiate the object
+        //Access access1; // declare the object
+       // access1 = new Access(); // instantiate the object
+        //combining both statements
+        Access access1 = new Access();
     }
 }
 
