@@ -7,7 +7,8 @@ public class Introduction_to_strings {
         System.out.println(s1);
 
         char c = s1.charAt(2);
-        System.out.println(c);
+
+        System.out.println(c + " " + s1.length());
 
         scn.close();
     }
